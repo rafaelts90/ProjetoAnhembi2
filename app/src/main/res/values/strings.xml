@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjetoAnhembi</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second_aba">Second_aba</string>
+    <string name="title_activity_terd_aba">Terd_aba</string>
+    <string name="title_activity_quarter_aba">Quarter_aba</string>
+    <string name="title_activity_fifth_aba">Fifth_aba</string>
+</resources>
